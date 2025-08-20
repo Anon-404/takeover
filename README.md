@@ -14,30 +14,30 @@ For debian based linux os
 
 ```bash
 sudo apt install python3 -y
-git clone https://github.com/Anon-404/Hashme
-cd Hashme
+git clone https://github.com/ghostx313/Hasher.git
+cd Hasher
 sudo pip3 install hashlib
-python3 Hashme.py
+python3 cracker.py
 ```
 For termux
 
 ```bash
 pkg install python -y
 pkg install git -y
-git clone https://github.com/Anon-404/Hashme
-cd Hashme
+git clone https://github.com/ghostx313/Hasher.git
+cd Hasher
 pip install hashlib
-python Hashme.py
+python cracker.py
 ```
 
 For arch based linux os
 
 ```bash
 sudo pacman -Sy python3 -y
-git clone https://github.com/Anon-404/Hashme
-cd Hashme
+git clone https://github.com/ghostx313/Hasher.git
+cd Hasher
 sudo pacnman -S python-hashlib
-python3 Hashme.py
+python3 cracker.py
 ```
 
 ## provided by team Anon404
