@@ -1,4 +1,4 @@
-# Hashme
+# Hasher
 
 Secure password and txt file by turning into hash
 
@@ -40,4 +40,4 @@ sudo pacnman -S python-hashlib
 python3 cracker.py
 ```
 
-## provided by team Anon404
+## provided by ghostx313
